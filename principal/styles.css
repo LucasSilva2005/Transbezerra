@@ -1,0 +1,12 @@
+@import url(../reset.css);
+@import url(/principal/header.css);
+@import url(/principal/main.css);
+@import url(/principal/footer.css);
+@import url(/principal/mobile.css);
+
+body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
